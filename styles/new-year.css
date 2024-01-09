@@ -174,7 +174,7 @@ button{
 }
 .even{
   gap: 25px;
-  background-color: lightgreen;
+  /* background-color: lightgreen; */
   margin: 120px 105px;
 }
 
@@ -211,4 +211,45 @@ button{
 }
 .new-year{
     padding-top: 40px;
+}
+footer{
+    width: 1600px;
+    height: 609px;
+    background: #070211;
+}
+.foot-dis{
+    color:#FFFFFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px; 
+    width: 375px;
+    height: 80px;
+    padding-top: 120px;
+    padding-left: 140px;
+}
+.foot-kit{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px; 
+padding-left: 600px;
+padding-top: 120px;
+}
+.first-foot{
+    display: flex;
+}
+hr{
+    width: 1320px;
+    height: 0.5px;
+    background: rgba(255, 255, 255, 0.15);
+}
+.social{
+    height: 80px;
+    width:1320px ;
+    padding-left: 650px;
+}
+.badmas{
+    padding-right: 80px;
 }
