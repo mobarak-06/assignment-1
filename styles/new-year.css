@@ -1,4 +1,7 @@
 /* banner section */
+*{
+    
+}
 .banner{
     width: 1320px;
     height: 600px;
@@ -214,9 +217,11 @@ button{
     padding-top: 40px;
 }
 footer{
-    width: 1600px;
+    width: 1350px;
     height: 609px;
     background: #070211;
+    margin-left: 80px;
+    
 }
 .foot-dis{
     color:#FFFFFF;
@@ -320,8 +325,8 @@ border: none;
 
 }
 .sp{
-    display: flex;
+    display: flex; 
     justify-content: center;
     align-items: center;
-    gap: 0;
+     gap: 0;
 }
