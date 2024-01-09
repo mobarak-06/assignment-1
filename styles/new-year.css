@@ -253,3 +253,22 @@ hr{
 .badmas{
     padding-right: 80px;
 }
+.slove-1{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 50px;
+    padding-left: 125px;
+}
+.slove-2{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding-left:750px;
+    margin-top: 50px;
+}
+.second-foot{
+    display: flex;
+}
