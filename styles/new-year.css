@@ -103,3 +103,33 @@ h1{
     padding: 68px 0px;
     padding-right: 138px;
 }
+.data{
+    background-image:linear-gradient(pink,white);
+    width: 1320px;
+    height: 482px;
+    margin: 120px auto;
+    
+    
+}
+.data-1{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+}
+.data-2{
+    color: #070211;
+font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+
+}
+.box{
+    padding-top: 100px;
+    padding-left: 0px auto;
+}
