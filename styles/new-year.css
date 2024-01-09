@@ -60,3 +60,46 @@ h1{
     height: 500px;
     margin: 48px auto;
 }
+.party{
+    width: 1320px;
+    height: 600px;
+    background-image: url('../resources/Vectorrr.png');
+    margin:120px auto;
+    display: flex;
+}
+.party-title{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px; 
+    letter-spacing: 7.04px;
+    width: 642px;
+    padding: 126px;
+    padding-bottom: 0;
+    text-align: left;
+}
+.party-discription{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; 
+    width: 697px;
+    text-align: left;
+    padding: 0px 126px;
+    padding-top: 24px;
+}
+.button{
+    color: #FFF;
+    text-align:left;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 48px 150px;
+}
+.part-2{
+    padding: 68px 0px;
+    padding-right: 138px;
+}
